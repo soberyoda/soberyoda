@@ -1,11 +1,27 @@
-<div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
-</div>
 
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
+<table>
+  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+ </table>
+
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
+
+
+
+
+<a href="https://www.instagram.com/drunk__yoda/">
+  <img align="right" alt="Agata's Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
 
 
 
