@@ -3,26 +3,32 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
-<table>
-  <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
- </table>
+<br>
+<h2 align="center">💥Hi, I'm soberyoda- student of Computer Science from Poland💥</h2>
+<br>
+<h3 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
 
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-
+<p align="right">
 <a href="https://www.instagram.com/drunk__yoda/">
-  <img align="right" alt="Agata's Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="right" alt="Agata's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
 </a>
-
+</p>
 
 
 <!--
