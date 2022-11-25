@@ -6,27 +6,22 @@
 <br>
 <h2 align="center">💥Hi, I'm soberyoda- student of Computer Science from Poland💥</h2>
 <br>
-<h3 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h3 align="center">💥Languages & Frameworks & Tools & Abilities💥</h2>
 <br>
 <p align="center">
-<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="80"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="80"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="80">
 </p>
 
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<p align="center">
+<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+</p>
 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<p align="right">
+<p align="center">
 <a href="https://www.instagram.com/drunk__yoda/">
-  <img align="right" alt="Agata's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
+  <img align="enter" alt="Agata's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
 </a>
 </p>
 
