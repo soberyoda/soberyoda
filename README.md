@@ -6,6 +6,8 @@
 <br>
 <h2 align="center">💥Hi, I'm soberyoda- student of Computer Science from Poland💥</h2>
 <br>
+<a href="https://soberyoda.github.io/">-website</a>
+  
 <h3 align="center">💥Languages & Frameworks & Tools & Abilities💥</h2>
 <br>
 <p align="center">
@@ -20,8 +22,6 @@
 
 
 <p align="center">
-<a href="https://soberyoda.github.io/"></a>
-  
 <a href="https://www.instagram.com/drunk__yoda/">
   <img align="enter" alt="Agata's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
 </a>
