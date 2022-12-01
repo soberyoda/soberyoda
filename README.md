@@ -6,8 +6,9 @@
 <br>
 <h2 align="center">💥Hi, I'm soberyoda- student of Computer Science from Poland💥</h2>
 <br>
-<a href="https://soberyoda.github.io/">-website</a>
-  
+<p align="center">
+<a href="https://soberyoda.github.io/">website</a>
+</p>
 <h3 align="center">💥Languages & Frameworks & Tools & Abilities💥</h2>
 <br>
 <p align="center">
