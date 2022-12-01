@@ -7,7 +7,7 @@
 <h2 align="center">💥Hi, I'm soberyoda- student of Computer Science from Poland💥</h2>
 <br>
 <p align="center">
-<a href="https://soberyoda.github.io/">website</a>
+<a href="https://soberyoda.github.io/">💥WEBSITE💥</a>
 </p>
 <h3 align="center">💥Languages & Frameworks & Tools & Abilities💥</h2>
 <br>
