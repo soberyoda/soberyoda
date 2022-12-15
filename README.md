@@ -7,6 +7,9 @@
 <h2 align="center">💥Hi, I'm soberyoda- student of Computer Science from Poland💥</h2>
 <br>
 <p align="center">
+<a href="https://paperswithcode.com/paper/scikit-learn-machine-learning-in-python#code">Link do artykułu</a>
+</p>
+<p align="center">
 <a  href="https://github.com/soberyoda/scikit-learn">Repozytorium (Fork)</a>
 </p>
 <p align="center">
