@@ -4,13 +4,13 @@
 </div>
 
 <br>
-<h2 align="center">💥Hi, I'm soberyoda- student of Computer Science from Poland💥</h2>
+<h2 align="center">💥𝑯𝒊, 𝑰'𝒎 𝒔𝒐𝒃𝒆𝒓𝒚𝒐𝒅𝒂- 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 𝒐𝒇 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝒇𝒓𝒐𝒎 𝑷𝒐𝒍𝒂𝒏𝒅💥</h2>
 <br>
 
 <p align="center">
-<a href="https://soberyoda.github.io/">💥WEBPAGE💥</a>
+<a href="https://soberyoda.github.io/">💥██▓▒­░⡷⠂𝚆𝙴𝙱𝙿𝙰𝙶𝙴⠐⢾░▒▓██💥</a>
 </p>
-<h3 align="center">💥Languages & Frameworks & Tools & Abilities💥</h2>
+<h3 align="center">💥𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 & 𝑭𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌𝒔 & 𝑻𝒐𝒐𝒍𝒔 & 𝑨𝒃𝒊𝒍𝒊𝒕𝒊𝒆𝒔💥</h2>
 <br>
 <p align="center">
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="80"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="80"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="80">
