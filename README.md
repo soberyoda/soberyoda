@@ -29,24 +29,11 @@
 
 
 
+
 <p align="center">
 <a href="https://www.instagram.com/drunk__yoda/">
   <img align="enter" alt="Agata's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
 </a>
 </p>
 
-
-<!--
-**soberyoda/soberyoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h5 align="center">🎓𝑨𝑮𝑯 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 𝒐𝒇 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝒂𝒏𝒅 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚. 𝑭𝒂𝒄𝒖𝒍𝒕𝒚 𝒐𝒇 𝑬𝒍𝒆𝒄𝒕𝒓𝒊𝒄𝒂𝒍 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈, 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄𝒔, 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆, 𝒂𝒏𝒅 𝑩𝒊𝒐𝒎𝒆𝒅𝒊𝒄𝒂𝒍 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 :: 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝒂𝒏𝒅 𝑰𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒕 𝑺𝒚𝒔𝒕𝒆𝒎𝒔</h5>
