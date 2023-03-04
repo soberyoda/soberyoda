@@ -16,6 +16,12 @@
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="80"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="80"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="80">
 </p>
 
+</p>
+<h3 align="center">💥𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈💥</h2>
+<br>
+<p align="center">
+<img src="https://camo.githubusercontent.com/ee00ddfd018f5bf50d3cdc6be150f9826ac2cbce04358962c6d2852c2f938f04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532422532422d3030353939433f7374796c653d666c6174266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" width="80"> <img src="https://camo.githubusercontent.com/499d407639e4713118b96a833d19dcab6aca54df2616eac45cb01beeb77f7d8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f7374796c653d666c6174266c6f676f3d63266c6f676f436f6c6f723d7768697465" width="53">
+</p>
 
 <p align="center">
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
