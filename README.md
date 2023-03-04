@@ -21,7 +21,7 @@
 <h3 align="center">💥𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 & 𝑭𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌𝒔 & 𝑻𝒐𝒐𝒍𝒔 & 𝑨𝒃𝒊𝒍𝒊𝒕𝒊𝒆𝒔💥</h2>
 <br>
 <p align="center">
-<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="80"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="80">
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="80"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="80"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="80">
 <br>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="70" />  
 
