@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-<a href="http://ailab.agh.edu.pl/">💥My main science Club</a>
+<a href="http://ailab.agh.edu.pl/">💥My main science Club💥</a>
 </p>
 <br>
 
