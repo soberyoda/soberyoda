@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-<a href="https://skn.agh.edu.pl/kolo/ai-lab/">💥My main science Club💥</a>
+<a href="https://skn.agh.edu.pl/kolo/ai-lab/">💥My science Club ~ 💚 Artificial Intelligence 💚 💥</a>
 </p>
 <br>
 
