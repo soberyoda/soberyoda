@@ -6,7 +6,7 @@
 <p>
 <img align='center' src='https://media.tenor.com/tuvk4qUAcaUAAAAi/baby-yoda-star-wars.gif' width='120'>
 </p>
-<h2 align="center">💥𝑯𝒊, 𝑰'𝒎 𝒔𝒐𝒃𝒆𝒓𝒚𝒐𝒅𝒂- 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 𝒐𝒇 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝒇𝒓𝒐𝒎 𝑷𝒐𝒍𝒂𝒏𝒅💥</h2>
+<h2 align="center">💥𝑯𝒊, 𝑰'𝒎 𝒔𝒐𝒃𝒆𝒓𝒚𝒐𝒅𝒂💥</h2>
 <br>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-<a href="https://skn.agh.edu.pl/kolo/ai-lab/">💥My science Club ~ 💚 Artificial Intelligence 💚 💥</a>
+<a href="https://skn.agh.edu.pl/kolo/ai-lab/">💥My science Club💥</a>
 </p>
 <br>
 
