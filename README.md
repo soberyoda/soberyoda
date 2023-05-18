@@ -6,15 +6,19 @@
 <p>
 <img align='center' src='https://media.tenor.com/tuvk4qUAcaUAAAAi/baby-yoda-star-wars.gif' width='120'>
 </p>
-<h2 align="center">💥𝑯𝒊, 𝑰'𝒎 𝒔𝒐𝒃𝒆𝒓𝒚𝒐𝒅𝒂💥</h2>
+<h1 align="center">💥𝑯𝒊, 𝑰'𝒎 𝒔𝒐𝒃𝒆𝒓𝒚𝒐𝒅𝒂💥</h1>
 <br>
-
+<h2 align="center">💥How to reach me:💥</h2>
 <p align="center">
  <a href="https://soberyoda.github.io/">💥██▓▒­░⡷⠂𝚆𝙴𝙱𝙿𝙰𝙶𝙴⠐⢾░▒▓██💥</a> 
 </p>
 
 <p align="center">
 <a href="https://skn.agh.edu.pl/kolo/ai-lab/">💥My uni science Club💥</a>
+</p>
+
+<p align="center">
+ <a href="aga.m.marczyk@gmail.com">💥gmail💥</a> 
 </p>
 <br>
 
