@@ -33,7 +33,7 @@
 
 
 <p align="center">
-<img src="https://camo.githubusercontent.com/ee00ddfd018f5bf50d3cdc6be150f9826ac2cbce04358962c6d2852c2f938f04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532422532422d3030353939433f7374796c653d666c6174266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" width="80"> <img src="https://camo.githubusercontent.com/499d407639e4713118b96a833d19dcab6aca54df2616eac45cb01beeb77f7d8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f7374796c653d666c6174266c6f676f3d63266c6f676f436f6c6f723d7768697465" width="53"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="53"><img src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png" width="53"> 
+<img src="https://camo.githubusercontent.com/ee00ddfd018f5bf50d3cdc6be150f9826ac2cbce04358962c6d2852c2f938f04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532422532422d3030353939433f7374796c653d666c6174266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" width="80"> <img src="https://camo.githubusercontent.com/499d407639e4713118b96a833d19dcab6aca54df2616eac45cb01beeb77f7d8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f7374796c653d666c6174266c6f676f3d63266c6f676f436f6c6f723d7768697465" width="53"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="53"><img src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png" width="53"><img src="https://www.pythonguis.com/images/libraries/pyside6.jpg" width="53"> 
 </p>
 
 <p align="right">
