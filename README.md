@@ -10,7 +10,7 @@
 <p align="center">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soberyoda&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=dracula&show_icons=true" alt="soberyoda's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=soberyoda&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=dracula&show_icons=true">
 </div>
 
 
