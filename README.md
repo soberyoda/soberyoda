@@ -1,5 +1,4 @@
-<h3 align = 'center'>&nbsp;&nbsp;&nbsp;♡𝙸'𝚖 𝚂𝚘𝚋𝚎𝚛𝚈𝚘𝚍𝚊 - 𝙿𝚢𝚝𝚑𝚘𝚗 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝙿𝚘𝚕𝚊𝚗𝚍♡<br>
-<img align = "right"src = "https://media.tenor.com/y0MCl1ATfUYAAAAi/sticker-robot.gif" width ="120" height = "120"></h3> 
+<h3 align = 'center'>&nbsp;&nbsp;&nbsp;♡𝙸'𝚖 𝚂𝚘𝚋𝚎𝚛𝚈𝚘𝚍𝚊 - 𝙿𝚢𝚝𝚑𝚘𝚗 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝙿𝚘𝚕𝚊𝚗𝚍♡</h3> 
 
 <h5 align="left">-->𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜<img align="right" src="https://github-readme-stats.vercel.app/api?username=soberyoda&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=dracula&show_icons=true"></h5>
 <p align="left">
