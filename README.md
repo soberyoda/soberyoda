@@ -2,7 +2,7 @@
 <img align='left' src='https://media.tenor.com/lOKztFccb6cAAAAj/pixelmando-themandalorian.gif' width='120' height ='150'>
 </p> 
 
-<a href="aga.m.marczyk@gmail.com">
+<a href="mailto:aga.m.marczyk@gmail.com">
 <img align='right' src='https://media.tenor.com/TLWaz7xDm-8AAAAi/lusties-erika-lust.gif' width='120' height = '100'>
 </a> 
 <p>
