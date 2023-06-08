@@ -1,12 +1,16 @@
 <p>
-<img align='center' src='https://media.tenor.com/tuvk4qUAcaUAAAAi/baby-yoda-star-wars.gif' width='120'>
-</p>
+<img align='left' src='https://media.tenor.com/lOKztFccb6cAAAAj/pixelmando-themandalorian.gif' width='120' height ='150'>
+</p> 
+<p>
+<img align='right' src='https://tenor.com/pl/view/kek-angry-code-matrix-gif-13818761' width='120' height = '150'>
+</p> 
 <div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+<img src="https://media.tenor.com/M4rm7V4kEOsAAAAi/welcome-welcome-to-my-profile.gif" alt="Welcome" align="center" width='400'>
 </div>
-<br>
+
+<!-- <br>
 <h1 align="center">💥𝑯𝒊, 𝑰'𝒎 𝒔𝒐𝒃𝒆𝒓𝒚𝒐𝒅𝒂💥</h1>
-<br>
+<br> -->
 <p align="center">
 
 <div align="center">
@@ -31,12 +35,10 @@
 <img src="https://camo.githubusercontent.com/ee00ddfd018f5bf50d3cdc6be150f9826ac2cbce04358962c6d2852c2f938f04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532422532422d3030353939433f7374796c653d666c6174266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" width="80"> <img src="https://camo.githubusercontent.com/499d407639e4713118b96a833d19dcab6aca54df2616eac45cb01beeb77f7d8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f7374796c653d666c6174266c6f676f3d63266c6f676f436f6c6f723d7768697465" width="53"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="53"><img src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png" width="53"><img src="https://www.pythonguis.com/images/libraries/pyside6.jpg" width="53"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png" width="53"> 
 </p>
 
-<p align="right">
-<img align='right' src='https://media.tenor.com/GEI3RZEGnZkAAAAi/baby-yoda.gif' width='120'>
-</p>
-<p align="left">
+
+<!-- <p align="left">
 <img align='left' src='https://media.tenor.com/z2twIoYKRwgAAAAi/baby-yoda.gif' width='120'>
 </p>
-<br>
-
+<br> -->
+ 
 
