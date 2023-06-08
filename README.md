@@ -1,6 +1,6 @@
 <h3 align = 'center'>&nbsp;&nbsp;&nbsp;♡𝙸'𝚖 𝚂𝚘𝚋𝚎𝚛𝚈𝚘𝚍𝚊 - 𝙿𝚢𝚝𝚑𝚘𝚗 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝙿𝚘𝚕𝚊𝚗𝚍♡</h3> 
 
--->𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜<img align="right" src="https://github-readme-stats.vercel.app/api?username=soberyoda&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=dracula&show_icons=true">
+-->𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜<br><img align="right" src="https://github-readme-stats.vercel.app/api?username=soberyoda&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=dracula&show_icons=true">
 <p align="left">
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="80"><img src="https://optimise2.assets-servd.host/voracious-blesbok/production/Blog/pandas-logo-2-1024x500.png?w=1024&auto=compress%2Cformat&fit=crop&dm=1642625336&s=df3c520738a678c897af662476593493" width="80" height='15'><img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" width="80"><img src="https://networkx.org/_static/networkx_logo.svg" width="80"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1280px-NumPy_logo.svg.png" width = "80"><img src ="https://i2.wp.com/softwareengineeringdaily.com/wp-content/uploads/2016/09/scikit-learn-logo.png?fit=566%2C202&ssl=1" width = "80"><br><img src="https://www.pygame.org/docs/_images/pygame_lofi.png" width = "80"><img src ="https://i.morioh.com/2020/04/23/49d98b5f5e3b.jpg" width = "80" height = "20">
 </p>
