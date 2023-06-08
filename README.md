@@ -9,8 +9,11 @@
   <img src="https://camo.githubusercontent.com/499d407639e4713118b96a833d19dcab6aca54df2616eac45cb01beeb77f7d8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f7374796c653d666c6174266c6f676f3d63266c6f676f436f6c6f723d7768697465" width="53">
  </p>
 <h5 align = "left">-->𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐</h5>
+
 <p align = "left">
-  <img src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png" width="53"><img src="https://www.pythonguis.com/images/libraries/pyside6.jpg" width="53"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png" width="53">
+  <img src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png" width="53"><img src="https://www.pythonguis.com/images/libraries/pyside6.jpg" width="53"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png" width="53"><img align = 'right' src = "https://media.tenor.com/0OhWk4p9qO4AAAAj/beso-joda.gif" width = "100">
+</p>
+
 
 <!-- 
 <a href="mailto:aga.m.marczyk@gmail.com">
