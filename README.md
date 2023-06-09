@@ -35,17 +35,6 @@
 <img align='left' src='https://media.tenor.com/ugmd2XPyD-sAAAAi/facebook-meta.gif&nbsp' width='30'>
 </a> 
 
-<!-- 
-
-<p>
-
-
-
-<br>
-<h1 align="center">𝕙𝕚, 𝕀'𝕞 𝕤𝕠𝕓𝕖𝕣𝕪𝕠𝕕𝕒</h1>
-<br> 
-<p align="center">
-
 
 
 
