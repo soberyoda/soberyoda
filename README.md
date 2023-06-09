@@ -34,6 +34,9 @@
 <a href="https://www.facebook.com/profile.php?id=100009502295504">
 <img align='left' src='https://media.tenor.com/ugmd2XPyD-sAAAAi/facebook-meta.gif&nbsp' width='30'>
 </a> 
+<a href="https://gitlab.com/soberyoda">
+<img align = left src= "https://camo.githubusercontent.com/23342886d4085076eb04be1e6a2459e3dfad4673c6ad894b6b79fad78bd6fb09/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3134342f6769746c61622e706e67" height = "35">
+</a>
 
 
 
