@@ -18,7 +18,7 @@
 </p>
 -->𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐
 <p align = "left">
- <img src="https://www.pythonguis.com/images/libraries/pyside6.jpg" width="70" height="32">&nbsp;&nbsp;<img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png" width="70">
+ <img src="https://www.pythonguis.com/images/libraries/pyside6.jpg" width="70" height="32">&nbsp;&nbsp;<img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png" width="70">&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" height="32">&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" height ="32">&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="32">
 <img align = 'right' src = "https://media.tenor.com/0OhWk4p9qO4AAAAj/beso-joda.gif" width = "150"> 
 </p>
 -->𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:<br>
