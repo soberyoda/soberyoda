@@ -34,7 +34,7 @@ const agata = {
 }
 ```
 ### How to reach me...
-<a href="[www.linkedin.com/in/agatamarczyk](https://www.linkedin.com/in/agatamarczyk/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/agatamarczyk/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <img align = 'right' src = "https://media.tenor.com/0OhWk4p9qO4AAAAj/beso-joda.gif" width = "150"> 
 
 <!-- <p align="left">
