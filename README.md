@@ -16,23 +16,7 @@
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
 </div>
 
-### A little more about me...  
-```javascript
-const agata = {
-  pronouns: "she" | "her",
-  edu: "second year student",
-  fieldOfStudy: "Computer Science and Intelligent Systems",
-  uni: "AGH UST, Cracow, Poland",
-  techCommunities: "AGH Code Industry, AIlab AGH",
 
-  Im_currently_learning:{
-                          languages: "Java, C#, Python, SQL",
-                          frameworks_libraries: "Hibernate, Spring Data JPA, SpringSec, SpringWeb",
-                                                "SciPy, Matplotlib"
-                                                "React"
-                        }
-}
-```
 ### How to reach me...
 <a href="https://www.linkedin.com/in/agatamarczyk/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <img align = 'right' src = "https://media.tenor.com/0OhWk4p9qO4AAAAj/beso-joda.gif" width = "150"> 
