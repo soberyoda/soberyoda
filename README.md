@@ -1,10 +1,11 @@
 ### About Me...
-I am a <a href= "https://www.eaiib.agh.edu.pl/en/computer-science-and-intelligent-systems/">Computer Science and Intelligent Systems</a> student at the AGH University of Science and Technology. 
+<a href= "https://www.eaiib.agh.edu.pl/en/computer-science-and-intelligent-systems/">Computer Science and Intelligent Systems</a> student at the AGH University of Science and Technology. 
 </br>
-Currently, I am advancing in the field of software development while also nurturing my passion for computer graphics and game development.
-I am involved in Student Scientific Association <a href="http://coin.agh.edu.pl/o-nas">(AGH Code Industry)</a>
-where I actively contribute, and I dedicate my free time to learning new technologies.
-</br>
+<ul>
+	<li>☕️ Java lover.</li>
+	<li>🎮 Enthusiast of creating computer games with a passion for graphic design, 1/8 of the 'Artificially Intelligent' team at the <a href="http://coin.agh.edu.pl/o-nas">AGH Code Industry</a> Student Scientific Association.</li>
+	<li>🌍 Open Source enthusiast.</li>
+</ul>
 ⚡Fun fact: I'm interested in literally everything.
 </br>
 I play the guitar and piano, engage in chess, read books on quantum physics, and solve the Rubik's Cube for time.
