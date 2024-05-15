@@ -6,10 +6,6 @@
 	<li>🎮 Enthusiast of creating computer games with a passion for graphic design, 1/8 of the 'Artificially Intelligent' team at the <a href="http://coin.agh.edu.pl/o-nas">AGH Code Industry</a> Student Scientific Association.</li>
 	<li>🌍 Open Source enthusiast.</li>
 </ul>
-⚡Fun fact: I'm interested in literally everything.
-</br>
-I play the guitar and piano, engage in chess, read books on quantum physics, and solve the Rubik's Cube for time.
-
 ### Languages and Tools...
 
 <div align="center">
