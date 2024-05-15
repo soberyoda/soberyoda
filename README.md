@@ -6,6 +6,7 @@
 	<li>🎮 Enthusiast of creating computer games with a passion for graphic design, 1/8 of the 'Artificially Intelligent' team at the <a href="http://coin.agh.edu.pl/o-nas">AGH Code Industry</a> Student Scientific Association.</li>
 	<li>🌍 Open Source enthusiast.</li>
 </ul>
+
 ### Languages and Tools...
 
 <div align="center">
