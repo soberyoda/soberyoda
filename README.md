@@ -1,10 +1,9 @@
 ### About Me...
-<a href= "https://www.eaiib.agh.edu.pl/en/computer-science-and-intelligent-systems/">Computer Science and Intelligent Systems</a> student at the AGH University of Science and Technology. 
-</br>
 <ul>
-	<li>☕️ Java lover.</li>
-	<li>🎮 Enthusiast of creating computer games with a passion for graphic design, 1/8 of the 'Artificially Intelligent' team at the <a href="http://coin.agh.edu.pl/o-nas">AGH Code Industry</a> Student Scientific Association.</li>
-	<li>🌍 Open Source enthusiast.</li>
+	<li>🎓 <a href= "https://www.eaiib.agh.edu.pl/en/computer-science-and-intelligent-systems/">Computer Science and Intelligent Systems</a> student at the AGH University of Science and Technology. </li>
+<!-- 	<li>💻 Working as SDE Intern at <a href="https://www.remitly.com">Remitly</a></li> -->
+ 	<li>🎮 Enthusiast of creating computer games with a passion for graphic design, 1/8 of the 'Artificially Intelligent' team at the <a href="http://coin.agh.edu.pl/o-nas">AGH Code Industry</a> Student Scientific Association.</li>
+	
 </ul>
 
 ### Languages and Tools...
@@ -14,9 +13,7 @@
 <tr>
 <td><img width="60" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></td><td><img width="60" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></td><td><img width="60" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven"/></td><td><img width="60" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit"/></td><td><img width="60" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" alt="Lombok" title="Lombok"/></td>
 <td><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></td>
-</tr>
-<tr>
-<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" title="Hibernate"/></td><td><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></td><td><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></td><td><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></td><td><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></td><td><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></td>
+<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" title="Hibernate"/></td>
 </tr>
 </table>	    
 </div>
@@ -43,12 +40,12 @@
 <div align="center">
 <table>
     <tr>
-	<td><img width="30" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></td>
-	<td><img width="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></td><td><img width="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></td><td><img width="30" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></td>
-<td><img width="30" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/></td>
-<td><img width="30" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin"/></td>
-<td><img width="30" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></td>
 <td><img width="30" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="Go" title="Go"/></td>
+<td><img width="30" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></td>
+<td><img width="30" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></td>
+<td><img width="30" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin"/></td>
+</td><td><img width="30" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></td>
+<td><img width="30" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/></td>
 </tr>
 </table>	
 </div>
