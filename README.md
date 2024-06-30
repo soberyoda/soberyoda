@@ -1,7 +1,7 @@
 ### About Me...
 <ul>
 	<li>🎓 <a href= "https://www.eaiib.agh.edu.pl/en/computer-science-and-intelligent-systems/">Computer Science and Intelligent Systems</a> student at the AGH University of Science and Technology. </li>
-<!-- 	<li>💻 Working as SDE Intern at <a href="https://www.remitly.com">Remitly</a></li> -->
+	<li>💻 Working at <a href="https://www.remitly.com">Remitly</a> as Software Engineer Intern</li>
  	<li>🎮 Enthusiast of creating computer games with a passion for graphic design, 1/8 of the 'Artificially Intelligent' team at the <a href="http://coin.agh.edu.pl/o-nas">AGH Code Industry</a> Student Scientific Association.</li>
 	
 </ul>
